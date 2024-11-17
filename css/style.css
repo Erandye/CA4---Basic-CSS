@@ -1,4 +1,8 @@
-body
+body {
+  background: #ffffff;
+  color: #4c0622;
+  font-family: 
+    
 h1
 h2
 p
@@ -8,6 +12,7 @@ ul
 li
 ol
 form
+.rate {
 fieldset
 legend
 input
