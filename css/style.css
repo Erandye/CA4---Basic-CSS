@@ -1,12 +1,21 @@
 body {
   background: #ffffff;
-  color: #4c0622;
-  font-family: 
+}
     
-h1,h2,h3 {
+h1 {
+  font-family: "Doto", serif;
+  color: #ff4633;
+}
+  
+h2,h3 {
   font-family: "Fredoka", sans-serif;
+  color: #4c0622
+}
+
 p {
   font-family: "Quicksand", sans-serif;
+}
+
 figure
 ul 
 li
@@ -15,11 +24,13 @@ form
 .rate {
   color: #ff4633;
   font-family: "Doto", serif;
+}
   
 fieldset, legend {
   color: #ff4633;
   font-family: "Quicksand", sans-serif;
-  
+}
+
 input
 label
 hr
