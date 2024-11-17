@@ -23,15 +23,31 @@ p {
   color: rgb(13,6,76);
 }
 
-figure
-ul 
-li
+figure {
+  font-family: "Fredoka", sans-serif;
+  color: #ff3386;
+}
+  
+ul {
+  font-family: "Quicksand", sans-serif;
+  color: rgb(138,138,138);
+}
+
+
+li {
+  font-family: "Quicksand", sans-serif;
+  color: rgb(138,138,138);
+}
+
 ol {
   font-family: "Quicksand", sans-serif;
   color: rgb(138,138,138);
 }
 
-form
+form {
+  font-family: "Fredoka", sans-serif;
+  color: #ff3386;
+}
 
 .rate {
   color: #ff4633;
@@ -45,4 +61,5 @@ fieldset, legend {
 
 input
 label
-hr
+hr {
+  font-family: "Doto"
