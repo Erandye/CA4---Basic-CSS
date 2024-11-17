@@ -59,6 +59,11 @@ fieldset, legend {
   font-family: "Quicksand", sans-serif;
 }
 
+figcaption {
+font-family: "Quicksand", san-serif;
+color: #0d064c
+}
+
 input
 label
 hr {
