@@ -3,18 +3,23 @@ body {
   color: #4c0622;
   font-family: 
     
-h1
-h2
-p
+h1,h2,h3 {
+  font-family: "Fredoka", sans-serif;
+p {
+  font-family: "Quicksand", sans-serif;
 figure
-h3
 ul 
 li
 ol
 form
 .rate {
-fieldset
-legend
+  color: #ff4633;
+  font-family: "Doto", serif;
+  
+fieldset, legend {
+  color: #ff4633;
+  font-family: "Quicksand", sans-serif;
+  
 input
 label
 hr
