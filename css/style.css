@@ -64,7 +64,25 @@ font-family: "Quicksand", san-serif;
 color: #0d064c
 }
 
-input
-label
+legend {
+font-family: "Fredoka", sans-serif;
+color: #4633ff;
+}
+
+input {
+color: rgb(51,134,255);
+}
+
+label {
+font-family: "Fredoka", sans-serif;
+color: #4633ff;
+}
+
 hr {
-  font-family: "Doto"
+color: #0d064c;
+}
+
+span {
+font-family: "Fredoka", sans-serif;
+color: #0d064c;
+}
